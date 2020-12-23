@@ -14,6 +14,7 @@ npm-debug.log
 package-lock.json
 /vendor/
 .vscode
+!/config/usergroups.csv 
 
 /js/battle.js
 /js/battledata.js
